@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(29, 157, 216);
+}
+form{
+    background-color: rgb(219, 213, 213);
+    width: 20%;
+    padding: 40px;
+    margin: auto;
+    margin-top: 200px;
+    align-items: center;
+}
+.button{
+    color:white;
+    background-color: rgb(29, 157, 216);
+    border: none;
+    padding:14px;
+    width: 48%;
+}
+
+.button:hover{
+    background-color: rgb(92, 194, 241);
+}
+.text{
+    width:89%;
+    padding:10px;
+    background-color: rgb(231, 222, 222);
+    border-color:rgb(29, 157, 216) ;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+button{
+    color:white;
+    background-color: rgb(29, 157, 216);
+    border: none;
+    padding:10px;
+    width: 96%;
+    margin-top: 30px;
+    border-radius: 10px;
+}
